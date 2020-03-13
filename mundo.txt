@@ -1,3 +1,8 @@
 holaMundo..
+<<<<<<< HEAD
 Linea 2.
 Linea 3
+=======
+Linea 2
+Linea 3.
+>>>>>>> 52f0cadde5dd337bfd85715d8e44113f03167a7c
